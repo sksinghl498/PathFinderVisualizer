@@ -4,7 +4,7 @@ PathfinderVisualizer is visualization of famous Graph algorithm like Dijkstra al
 
 ## Deployment
 
-please Click this link [pathfindervisualizer](https://cranky-wescoff-5fe3b1.netlify.app/).
+please Click this link [pathfindervisualizer](https://friendly-beaver-30918b.netlify.app/).
 
 
 
